@@ -1,0 +1,221 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+   .Navbar{
+       margin-top: 15px;
+       margin-right: 50px;
+   }
+   .NavATag{
+       font-size: 20px;
+       text-decoration: none;
+       color: white;
+       margin-left: 20px;
+      
+       
+   }
+   .Headingh1{
+       color: white;
+       font-size: 25px;
+       text-align: center;
+       margin-top: 12px;
+       margin-left: 30px;
+       
+   }
+   
+.MainHeading{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#btn1{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #7BA59B;
+
+}
+#btn2{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #B9B7D1;
+
+}
+#btn3{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #742C36 ;
+
+}
+#btn4{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #D6D5E8 ;
+
+}
+#btn5{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #E56D5D  ;
+
+}
+#btn6{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #EBAD22;
+}
+#btn7{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #EE4044;
+}
+#btn8{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #ECCAC8;
+}
+#btn9{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #222124;
+}
+#btn10{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #215E45;
+}
+#btn11{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #2C293C;
+}
+#btn12{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #3969C6;
+}
+.Footer{ 
+    background-color: black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+.FooterHeading
+{
+
+    color: white;
+    font-size: 25px;
+   text-align: center;
+}
+.DrawingArea{
+    /* border: 2px solid white; */
+    width: 210px;
+    height: 200px;
+    margin-left: -310px;
+    margin-top: 140px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.InputTextStyle{
+    margin-top: 100px;
+    background-color: none;
+    height: 50px;
+    width: 180px;
+    fill: none;
+    background: transparent;
+    outline: none;
+    margin-left:-10px;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: black;
+}
+ ::placeholder{
+    color: black;
+}
+.Filediv{
+    display: flex;
+    justify-content: center;
+    margin-top: -25px;
+}
+.CustomizationArea{
+    height:730px;
+    width: 900px;
+    border: 5px solid gray;
+    border-radius: 10px;  
+}
+
+.Class33{
+    border: 5px solid gray ;width:300px ;height:190px ; 
+    margin-left:500px ; margin-top:-100px ; border-radius:10px
+}
+.Class34{
+    text-align:center; text-decoration:underline ; margin-top:0px
+}
+.Class35{
+    display:flex ; justify-content:center ; margin-top: -8px;
+}
+.Class36{
+    margin-top:0px;border:2px solid black ;
+     width:50px; height:50px ; display:flex; justify-content:center; align-items:center ; margin-left:5px
+}
+.Class37{
+    margin-top:0px;border:2px solid black ; 
+    width:50px; height:50px ; display:flex; justify-content:center; align-items:center ; margin-left:5px 
+}
+
+.Class38{
+    margin-top:0px;border:2px solid black ; 
+    width:50px; height:50px ; display:flex; justify-content:center; align-items:center ; margin-left:5px 
+}
+.Class6{
+    margin-top:-280px
+}
+.Class7{
+    margin-left:420px ;  height:150px ; width:160px ; display:none; margin-top: 30px;
+}
+.Class8{
+    margin-top:-200px
+}
+.Class9{
+    margin-left:420px ;  height:150px ; width:150px ; display:none ;margin-top: 30px
+}
+.Class10{
+    margin-top:-200px
+}
+.Class11{
+    margin-left:430px ;  height:130px ; width:130px ; display:none; margin-top: 30px
+}
+.Class12{
+    margin-top:-200px
+}
+.Class13{
+    margin-left:430px ;  height:140px ; width:140px ;display:none ; margin-top: 30px
+}
+.Class39{
+    margin-top: 10px;
+    margin-left: 2px;
+   
+}
+.Class40{
+    margin-top: 10px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+}

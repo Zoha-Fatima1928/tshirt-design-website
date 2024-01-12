@@ -1,0 +1,114 @@
+
+body{
+    background-color: #1B0E43;
+    
+}
+
+.form {
+    margin: 50px auto;
+    width: 300px;
+    padding: 30px 25px;
+    background-image: url("../Images/Designing/design2.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 4px solid black;
+}
+h1.login-title {
+    color: white;
+    font-weight: bold;
+    margin: 0px auto 25px;
+    font-size: 35px;
+    text-align: center;
+}
+.login-input {
+    font-size: 15px;
+    padding: 10px;
+    margin-bottom: 25px;
+    height: 25px;
+    width: calc(100% - 23px);
+    border:2px solid black;
+    background: none;
+    cursor:white;
+    
+}
+
+.login-input::placeholder {
+    color:white
+}
+
+input {
+    color:white
+}
+.login-input:focus {
+   color: white;
+    outline: none;
+}
+.login-button {
+    color: #fff;
+    background: #1B0E43;
+    border: 2px solid black;
+    outline: 0;
+    width: 100%;
+    height: 50px;
+    font-size: 16px;
+    text-align: center;
+    cursor: pointer;
+}
+.link {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.link a {
+    color: white;
+}
+h3 {
+    font-weight: normal;
+    text-align: center;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border:2px solid black;
+}
+.container .form{
+    /* background: #fff; */
+    padding: 30px 35px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.container .form form .form-control{
+    height: 40px;
+    font-size: 15px;
+}
+.container .form form .forget-pass{
+    margin: -15px 0 15px 0;
+}
+.container .form form .forget-pass a{
+   font-size: 15px;
+}
+.container .form form .button{
+    background: #6665ee;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+.container .form form .button:hover{
+    background: #5757d1;
+}
+.container .form form .link{
+    padding: 5px 0;
+}
+.container .form form .link a{
+    color: #6665ee;
+}
+.container .login-form form p{
+    font-size: 14px;
+}
+.container .row .alert{
+    font-size: 14px;
+}

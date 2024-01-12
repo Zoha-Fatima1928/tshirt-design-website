@@ -1,0 +1,76 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.Header{
+ display: flex;
+ background-color: black;
+ justify-content: space-between;
+ height: 60px;
+    
+}
+.Navbar{
+    margin-top: 15px;
+    margin-right: 50px;
+}
+.NavATag{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+   
+    
+}
+.Headingh1{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 12px;
+    margin-left: 30px;
+    
+}
+.ImageDiv{
+    display: flex;
+    justify-content: center;
+}
+.AboutUs{
+    text-align: center;
+    margin-top: 0px;
+    text-decoration:underline;
+
+}
+.AboutUsDiv{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+}
+.AboutSectionImage{
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
+   
+}
+.AboutUsParagrapgh{
+    width: 1300px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0px;
+    width: 700px;
+}
+.Footer{ 
+    background-color: black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+.FooterHeading
+{
+
+    color: white;
+    font-size: 25px;
+   text-align: center;
+}

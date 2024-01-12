@@ -1,0 +1,143 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.Header{
+ display: flex;
+ justify-content: space-between;
+ height: 60px;   
+}
+.Navbar{
+    margin-top: 15px;
+    margin-right: 50px;
+    margin-top: 27px;
+}
+.NavATag{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    margin-top: 35px;  
+}
+.NavATag2{
+    background-color: #D26E4C;
+    padding: 10px;
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    margin-left: 10px; 
+    
+}
+.Headingh1{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 27px;  
+}
+.WelcomeUser{
+    text-align: center;
+}
+.HomeA{
+    color: white;
+    text-decoration:none;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    width:100px;
+    height: 30px;
+    border-radius: 20px;
+}
+.LogoutA{
+    color: white;
+    text-decoration:none;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    width:300px;
+    height: 30px;
+    border-radius: 20px;
+   
+}
+.HomeButton{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    width:100px;
+    height: 30px;
+    border-radius: 20px;
+}
+.LogoutButton{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    width:300px;
+    height: 30px;
+    margin-left: 5px;
+    border-radius: 20px;
+}
+.SummerCollectionCard{
+    width:250px;
+    box-shadow:  1px 2px 3px 4px rgba(20,20,20,0.4);
+    border-radius: 10px;
+    background-color: white
+    
+}
+.CollectionButtonDiv{
+    background-color: black;
+    height: 30px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -20px;
+}
+.CollectionButton{
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    height: 30px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.WinterCollection{
+    text-align: center;
+    text-decoration: underline;
+}
+.WinterCard{
+    width:280px;
+    box-shadow:  1px 2px 3px 4px rgba(20,20,20,0.4);
+    border-radius: 10px;
+    background-color: white
+}
+.Footer{ 
+    background-color: black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+.FooterHeading
+{
+
+    color: white;
+    font-size: 25px;
+   text-align: center;
+}
+
+
+
+
+

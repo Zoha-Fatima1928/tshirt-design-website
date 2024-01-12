@@ -1,0 +1,17 @@
+.Footer{ 
+    background-color: black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+.FooterHeading
+{
+
+    color: white;
+    font-size: 25px;
+   text-align: center;
+}
+

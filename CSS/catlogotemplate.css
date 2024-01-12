@@ -1,0 +1,163 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+   .Navbar{
+       margin-top: 15px;
+       margin-right: 50px;
+   }
+   .NavATag{
+       font-size: 20px;
+       text-decoration: none;
+       color: white;
+       margin-left: 20px;
+      
+       
+   }
+   .Headingh1{
+       color: white;
+       font-size: 25px;
+       text-align: center;
+       margin-top: 12px;
+       margin-left: 30px;
+       
+   }
+   
+.MainHeading{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#btn1{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: red;
+
+}
+#btn2{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: white;
+
+}
+#btn3{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: yellow ;
+
+}
+#btn4{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: orange;
+
+}
+#btn5{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #B9B7D1 ;
+
+}
+
+#btn7{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #47B8BE;
+}
+#btn8{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #0182BF;
+}
+#btn9{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color:#00378C ;
+}
+#btn10{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #79CE4D;
+}
+#btn11{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #2C293C;
+}
+
+.Footer{ 
+    background-color: black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+.FooterHeading
+{
+
+    color: white;
+    font-size: 25px;
+   text-align: center;
+}
+.DrawingArea{
+    /* border: 2px solid white; */
+    width: 210px;
+    height: 200px;
+    margin-left: -310px;
+    margin-top: 140px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.InputTextStyle{
+    margin-top: 100px;
+    background-color: none;
+    height: 50px;
+    width: 180px;
+    fill: none;
+    background: transparent;
+    outline: none;
+    margin-left:-10px;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: black;
+}
+ ::placeholder{
+    color: black;
+}
+.Filediv{
+    display: flex;
+    justify-content: center;
+    margin-top: -25px;
+}
+.CustomizationArea{
+    height: 580px;
+    width: 950px;
+    border: 5px solid gray;
+    border-radius: 10px;  
+}
+.Class39{
+    margin-top: 10px;
+    margin-left: 2px;
+   
+}
+.Class40{
+    margin-top: 10px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+}
